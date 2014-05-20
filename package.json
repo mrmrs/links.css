@@ -1,0 +1,31 @@
+{
+  "name": "links.css",
+  "version": "0.0.1",
+  "homepage": "http://mrmrs.github.io/links.css",
+  "description": "Smarter defaults for links on the web",
+  "keywords": [
+    "oocss",
+    "links",
+    "animation",
+    "css",
+    "rwd",
+    "responsive design",
+    "design"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mrmrs/links.css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrmrs/links.css/issues"
+  },
+  "author": {
+    "name": "mrmrs",
+    "email": "hi@mrmrs.cc",
+    "url": "http://mrmrs.cc"
+  },
+  "contributors": [
+    { "name": "adam morse", "email": "hi@mrmrs.cc" }
+  ],
+  "license": "MIT"
+}
